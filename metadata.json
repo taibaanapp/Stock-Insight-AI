@@ -1,0 +1,5 @@
+{
+  "name": "Stock Insight AI v0.1",
+  "description": "Standalone Desktop-style AI Stock Analysis tool with user-provided API key support.",
+  "requestFramePermissions": []
+}
